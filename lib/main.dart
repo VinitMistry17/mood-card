@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mood_card/screens/mood_screen.dart';
+import 'package:mood_card/screens/mood_card_screen.dart';
 
 void main() => runApp(const MoodCardApp());
 
