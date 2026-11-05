@@ -18,6 +18,10 @@ A quote at the bottom of the card that shows my personality:
 
 > "Going with the flow is fun, but the results are facts we have to face."
 
+## 📱 Download APK
+
+[⬇️ Download Mood Card APK](https://github.com/VinitMistry17/mood-card/raw/refs/heads/main/app-arm64-v8a-release.apk)
+
 ## How to run
 
 1. Install [Flutter](https://docs.flutter.dev/get-started/install)
